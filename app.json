@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "newArchEnabled": true,
+    "name": "Jobs",
+    "slug": "Jobs",
+    "ios": {
+      "jsEngine": "jsc"
+    }
+  }
+}
